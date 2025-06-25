@@ -60,3 +60,8 @@ Você pode me encontrar e entrar em contato através das seguintes plataformas:
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+![Início](https://github.com/user-attachments/assets/cc5b0c6d-52c9-4556-ae0d-7923c56becd9)
+
+![Projetos](https://github.com/user-attachments/assets/6d5c3187-fdea-4534-8deb-db03f90e30cb)
+
