@@ -1,8 +1,10 @@
-# Portfólio Pessoal - Caio Cabral
+# Portfólio Pessoal (Atividade Prática UNINTER)- Caio Cabral
+
+Atividade Prática da faculdade (UNINTER) referente a disciplina de Ferramentas de Desenvolvimento Web - Junho de 2025.
 
 Este é o repositório do meu portfólio pessoal, um site estático desenvolvido para apresentar minhas habilidades, projetos e trajetória profissional. O projeto foi criado como uma vitrine para minhas competências em desenvolvimento web, utilizando tecnologias fundamentais como HTML5 e CSS3.
 
-### ➡️ Veja a versão online aqui!
+### ➡️ Veja a versão online [aqui!](https://caio-cabral-programmer.github.io/portfolio-pessoal-uninter/)
 
 ---
 
@@ -60,3 +62,8 @@ Você pode me encontrar e entrar em contato através das seguintes plataformas:
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+![Início](https://github.com/user-attachments/assets/cc5b0c6d-52c9-4556-ae0d-7923c56becd9)
+
+![Projetos](https://github.com/user-attachments/assets/6d5c3187-fdea-4534-8deb-db03f90e30cb)
+
