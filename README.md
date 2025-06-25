@@ -4,7 +4,7 @@ Atividade Prática da faculdade (UNINTER) referente a disciplina de Ferramentas 
 
 Este é o repositório do meu portfólio pessoal, um site estático desenvolvido para apresentar minhas habilidades, projetos e trajetória profissional. O projeto foi criado como uma vitrine para minhas competências em desenvolvimento web, utilizando tecnologias fundamentais como HTML5 e CSS3.
 
-### ➡️ Veja a versão online aqui!
+### ➡️ Veja a versão online [aqui!](https://caio-cabral-programmer.github.io/portfolio-pessoal-uninter/)
 
 ---
 
