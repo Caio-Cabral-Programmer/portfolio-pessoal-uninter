@@ -1,5 +1,7 @@
 # Portfólio Pessoal (Atividade Prática UNINTER)- Caio Cabral
 
+Atividade Prática da faculdade (UNINTER) referente a disciplina de Ferramentas de Desenvolvimento Web - Junho de 2025.
+
 Este é o repositório do meu portfólio pessoal, um site estático desenvolvido para apresentar minhas habilidades, projetos e trajetória profissional. O projeto foi criado como uma vitrine para minhas competências em desenvolvimento web, utilizando tecnologias fundamentais como HTML5 e CSS3.
 
 ### ➡️ Veja a versão online aqui!
