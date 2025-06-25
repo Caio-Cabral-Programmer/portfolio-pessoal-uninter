@@ -52,8 +52,8 @@ E pronto! Você poderá navegar por todas as páginas do site.
 
 Você pode me encontrar e entrar em contato através das seguintes plataformas:
 
-- **LinkedIn:** [!LinkedIn](https://www.linkedin.com/in/caio-cabral-programmer/)
-- **GitHub:** [!GitHub](https://github.com/Caio-Cabral-Programmer)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/caio-cabral-programmer/)
+- **GitHub:** [GitHub](https://github.com/Caio-Cabral-Programmer)
 
 ---
 
