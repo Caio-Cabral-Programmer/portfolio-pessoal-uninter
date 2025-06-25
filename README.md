@@ -1,4 +1,4 @@
-# Portfólio Pessoal - Caio Cabral
+# Portfólio Pessoal (Atividade Prática UNINTER)- Caio Cabral
 
 Este é o repositório do meu portfólio pessoal, um site estático desenvolvido para apresentar minhas habilidades, projetos e trajetória profissional. O projeto foi criado como uma vitrine para minhas competências em desenvolvimento web, utilizando tecnologias fundamentais como HTML5 e CSS3.
 
